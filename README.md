@@ -1,7 +1,7 @@
 # SiOnPark
 現在、C#を主に使用していますが、Java開発者として成長したく、Javaを中心に学習しています。  
 ##  🛠 技術スタック
-- 💻 言語: C# (主に), Java (学習中)
+- 💻 言語: Java, C#
 - ⚙️ ツール: Git, Visual Studio, VS Code, IntelliJ など
 ## 🎯 興味・関心
 - クリーンコードと保守性の高い設計  
